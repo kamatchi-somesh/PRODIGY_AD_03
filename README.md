@@ -42,4 +42,3 @@ Follow these steps to install and run the Stopwatch App on your Android device o
 4. **Reset the Timer:**
    Set the timer back to zero by using the "Reset" button.
 
-Feel free to explore, modify, and enhance this Stopwatch App based on your preferences and requirements. Enjoy using the stopwatch for your timing needs!
